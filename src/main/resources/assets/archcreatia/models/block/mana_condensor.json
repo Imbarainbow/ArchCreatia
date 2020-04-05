@@ -1,0 +1,11 @@
+{
+  "parent": "archcreatia:block/sided",
+  "textures": {
+    "side": "archcreatia:block/mana_furnace_side",
+    "front": "archcreatia:block/mana_condensor_front",
+    "top": "archcreatia:block/weak_mana_condensor_top",
+    "bottom": "archcreatia:block/mana_furnace_side",
+    "out": "archcreatia:block/machine_output"
+
+  }
+}

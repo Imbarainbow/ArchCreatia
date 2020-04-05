@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "archcreatia:block/mana_condensor" },
+    "facing=east":  { "model": "archcreatia:block/mana_condensor", "y":  90},
+    "facing=south": { "model": "archcreatia:block/mana_condensor", "y": 180 },
+    "facing=west":  { "model": "archcreatia:block/mana_condensor", "y": 270 }
+  }
+}

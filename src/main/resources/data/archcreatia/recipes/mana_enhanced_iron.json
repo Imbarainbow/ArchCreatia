@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":  [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "archcreatia:mana_crystal"
+    },
+    {
+      "item": "archcreatia:mana_crystal"
+    }
+  ],
+  "result": {
+    "item": "archcreatia:mana_enhanced_iron",
+    "count": 1
+  }
+}

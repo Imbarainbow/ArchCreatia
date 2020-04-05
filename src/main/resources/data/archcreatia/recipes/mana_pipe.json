@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "AAA",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "archcreatia:impure_ichor"
+    },
+    "B": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "archcreatia:mana_pipe",
+    "count": 4
+  }
+}

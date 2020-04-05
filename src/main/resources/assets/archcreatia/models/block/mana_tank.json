@@ -1,0 +1,11 @@
+{
+  "parent": "archcreatia:block/sided",
+  "textures": {
+    "side": "archcreatia:block/mana_tank",
+    "front": "archcreatia:block/mana_tank",
+    "top": "archcreatia:block/mana_tank_top",
+    "bottom": "archcreatia:block/mana_furnace_side",
+    "out": "archcreatia:block/machine_output"
+
+  }
+}

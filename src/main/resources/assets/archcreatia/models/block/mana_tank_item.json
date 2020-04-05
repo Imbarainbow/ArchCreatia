@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "archcreatia:block/mana_tank",
+    "up": "archcreatia:block/mana_tank_top"
+  }
+}

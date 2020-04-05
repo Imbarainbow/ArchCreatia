@@ -1,0 +1,9 @@
+{
+  "parent": "archcreatia:block/pipe",
+  "textures": {
+    "side": "archcreatia:block/mana_pipe_end",
+    "front": "archcreatia:block/mana_pipe",
+    "top": "archcreatia:block/mana_pipe",
+    "bottom": "archcreatia:block/mana_pipe"
+  }
+}

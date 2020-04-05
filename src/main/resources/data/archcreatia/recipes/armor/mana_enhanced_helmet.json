@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "   "
+  ],
+  "key": {
+    "A": {
+      "item": "archcreatia:mana_enhanced_iron"
+    },
+    "B": {
+      "item": "minecraft:diamond_helmet"
+    }
+  },
+  "result": {
+    "item": "archcreatia:mana_enhanced_helmet",
+    "count": 1
+  }
+}

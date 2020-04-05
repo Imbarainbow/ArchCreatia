@@ -1,0 +1,25 @@
+{
+    "itemGroup.archcreatia.archcreatia_items": "ArchCreatia Items",
+    "itemGroup.archcreatia.archcreatia_machines": "ArchCreatia Machines",
+    "itemGroup.archcreatia.archcreatia_armor": "ArchCreatia Armor",
+
+    "item.archcreatia.impure_ichor": "Impure Mana",
+    "item.archcreatia.mana_crystal": "Mana Crystal",
+    "item.archcreatia.pipe_wrench": "Wrench",
+    "item.archcreatia.mana_enhanced_iron": "Mana Enhanced Iron",
+    "item.archcreatia.mana_enhanced_helmet": "Enhanced Helmet",
+    "item.archcreatia.mana_enhanced_chestplate": "Enhanced Chestplate",
+    "item.archcreatia.mana_enhanced_leggings": "Enhanced Leggings",
+    "item.archcreatia.mana_enhanced_boots": "Enhanced Boots",
+
+    "block.archcreatia.mana_furnace": "Mana Generator",
+    "block.archcreatia.mana_tank": "Mana Tank",
+    "block.archcreatia.mana_pipe": "Mana Pipe",
+    "block.archcreatia.weak_mana_condensor": "Weak Mana Condensor",
+    "block.archcreatia.mana_condensor": "Mana Condensor",
+
+    "container.archcreatia.mana_furnace": "Mana Generator",
+    "container.archcreatia.mana_tank": "Mana Tank",
+    "container.archcreatia.weak_mana_condensor": "Weak Mana Condensor",
+    "container.archcreatia.mana_condensor": "Mana Condensor"
+}

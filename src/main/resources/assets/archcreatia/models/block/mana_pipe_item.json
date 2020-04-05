@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "archcreatia:block/mana_pipe",
+    "north": "archcreatia:block/mana_pipe_end",
+    "south": "archcreatia:block/mana_pipe_end"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer1": "archcreatia:models/armor/mana_enhanced_armor_layer_1",
+    "layer2": "archcreatia:models/armor/mana_enhanced_armor_layer_2"
+  }
+}

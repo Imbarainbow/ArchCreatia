@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "clicked=false": { "model": "archcreatia:block/test_block" },
+    "clicked=true": { "model": "archcreatia:block/test_block_clicked" }
+  }
+}
+

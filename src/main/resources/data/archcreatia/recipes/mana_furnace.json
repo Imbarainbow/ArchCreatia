@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BAB",
+    "ACA",
+    "BDB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:glass"
+    },
+    "B": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:furnace"
+    },
+    "D": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "item": "archcreatia:mana_furnace",
+    "count": 1
+  }
+}

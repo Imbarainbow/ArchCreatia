@@ -1,0 +1,19 @@
+{   "parent": "block/block",
+  "textures": {
+    "particle": "#top"
+  },
+  "elements": [
+    {
+      "from": [ 0, 4, 4 ],
+      "to": [  16, 12, 12 ],
+      "faces": {
+        "down":  { "texture": "#bottom", "rotation": 270 },
+        "up":    { "texture": "#top", "rotation": 270},
+        "north":  { "texture": "#top", "rotation": 90},
+        "south":  { "texture": "#top", "rotation": 270},
+        "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#side"},
+        "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#side"}
+      }
+    }
+  ]
+}
