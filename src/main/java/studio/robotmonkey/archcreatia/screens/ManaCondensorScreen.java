@@ -21,15 +21,19 @@ public class ManaCondensorScreen extends ContainerScreen<ManaCondensorContainer>
     }
 
     @Override
+    public void render(int mouseX, int mouseY, float delta) {
+        this.renderBackground();
+        super.render(mouseX, mouseY, delta);
+        this.drawMouseoverTooltip(mouseX, mouseY);
+    }
+
+    @Override
     protected void drawForeground(int mouseX, int mouseY) {
         this.font.draw(this.title.asFormattedString(), this.containerWidth / 2F - 50F, 6.0F, 4210752);
         this.font.draw(this.playerInventory.getDisplayName().asFormattedString(), 8.0F, this.containerHeight / 2F - 39, 4210752);
     }
-    int frameCount = 0;
-    int renderFrame = 2;
 
     @Override
-
     protected void drawBackground(float delta, int mouseX, int mouseY) {
 //        RenderSystem.color4f(1.0F, 1.0F, 1.0F, 1.0F);
 //        this.minecraft.getTextureManager().bindTexture(TEXTURE);

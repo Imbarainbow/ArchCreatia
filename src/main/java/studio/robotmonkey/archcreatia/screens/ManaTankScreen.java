@@ -19,6 +19,14 @@ public class ManaTankScreen extends ContainerScreen<ManaTankContainer> {
     }
 
     @Override
+    public void render(int mouseX, int mouseY, float delta) {
+        this.renderBackground();
+        super.render(mouseX, mouseY, delta);
+        this.drawMouseoverTooltip(mouseX, mouseY);
+    }
+
+
+    @Override
     protected void drawForeground(int mouseX, int mouseY) {
         this.font.draw(this.title.asFormattedString(), this.containerWidth / 2F - 25F, 6.0F, 4210752);
         this.font.draw(this.playerInventory.getDisplayName().asFormattedString(), 8.0F, this.containerHeight / 2F - 39, 4210752);
